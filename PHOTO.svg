@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="297mm" height="210mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 29700 21000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:20}
+    .fil2 {fill:none}
+    .fil1 {fill:#31C5F0}
+    .fil0 {fill:url(#id1)}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M14896 3019c2396,0 4339,1848 4339,4128 0,2279 -1943,4127 -4339,4127 -2397,0 -4339,-1848 -4339,-4127 0,-2280 1942,-4128 4339,-4128z"/>
+   </clipPath>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2 -0 -0 1.94545 -20475 2518)" cx="20474.6" cy="-2663.01" r="15158.5" fx="20474.6" fy="-2663.01">
+   <stop offset="0" style="stop-opacity:0.980392; stop-color:#34364E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0C0824"/>
+  </radialGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <g id="photoshop-cc.svg">
+     <polygon class="fil0" points="9981,2390 20371,2390 20371,12497 9981,12497 "/>
+     <path class="fil1" d="M9981 2390l10390 0 0 10107 -10390 0 0 -10107zm-473 10579l11335 0 0 -11051 -11335 0 0 11051zm7642 -6517c-373,0 -501,189 -501,345 0,170 85,288 586,548 741,359 973,703 973,1209 0,755 -576,1161 -1356,1161 -411,0 -765,-85 -968,-203 -33,-14 -38,-37 -38,-75l0 -694c0,-48 24,-62 57,-38 298,193 638,278 949,278 373,0 529,-155 529,-368 0,-170 -108,-321 -585,-567 -671,-321 -950,-647 -950,-1190 0,-609 477,-1114 1304,-1114 406,0 689,61 845,132 38,23 47,61 47,94l0 647c0,38 -23,62 -70,47 -208,-132 -515,-212 -822,-212l0 0zm-4062 562c109,9 194,9 383,9 552,0 1072,-193 1072,-944 0,-600 -373,-902 -1001,-902 -189,0 -369,9 -454,14l0 1823 0 0zm-840 -2508c0,-33 66,-56 103,-56 303,-15 751,-24 1219,-24 1308,0 1818,718 1818,1634 0,1200 -869,1714 -1936,1714 -180,0 -241,-9 -369,-9l0 1813c0,38 -14,57 -56,57l-723 0c-38,0 -56,-14 -56,-57l0 -5072 0 0z"/>
+    </g>
+   </g>
+  </g>
+  <path class="fil2 str0" d="M14896 3019c2396,0 4339,1848 4339,4128 0,2279 -1943,4127 -4339,4127 -2397,0 -4339,-1848 -4339,-4127 0,-2280 1942,-4128 4339,-4128z"/>
+ </g>
+</svg>
