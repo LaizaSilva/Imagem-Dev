@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="90mm" height="90mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 9000 9000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#31C5F0}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.91781 -0 -0 2.77547 -25209 -22563)" cx="13144.9" cy="12707.9" r="86.78" fx="13144.9" fy="12707.9">
+   <stop offset="0" style="stop-opacity:0.980392; stop-color:#34364E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0C0824"/>
+  </radialGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_623103392">
+  </g>
+  <g id="_623100832">
+   <g id="photoshop-cc.svg">
+    <path class="fil0" d="M4467 325c2396,0 4339,1848 4339,4128 0,2279 -1943,4127 -4339,4127 -2397,0 -4339,-1848 -4339,-4127 0,-2280 1942,-4128 4339,-4128z"/>
+    <path class="fil1" d="M6721 3758c-373,0 -501,189 -501,345 0,170 85,288 586,548 741,359 973,703 973,1209 0,755 -576,1161 -1356,1161 -411,0 -765,-85 -968,-203 -33,-14 -38,-37 -38,-75l0 -694c0,-48 24,-62 57,-38 298,193 638,278 949,278 373,0 529,-155 529,-368 0,-170 -108,-321 -585,-567 -671,-321 -950,-647 -950,-1190 0,-609 477,-1114 1304,-1114 406,0 689,61 845,132 38,23 47,61 47,94l0 647c0,38 -23,62 -70,47 -208,-132 -515,-212 -822,-212l0 0zm-4062 562c109,9 194,9 383,9 552,0 1072,-193 1072,-944 0,-600 -373,-902 -1001,-902 -189,0 -369,9 -454,14l0 1823 0 0zm-840 -2508c0,-33 66,-56 103,-56 303,-15 751,-24 1219,-24 1308,0 1818,718 1818,1634 0,1200 -869,1714 -1936,1714 -180,0 -241,-9 -369,-9l0 1813c0,38 -14,57 -56,57l-723 0c-38,0 -56,-14 -56,-57l0 -5072 0 0z"/>
+   </g>
+  </g>
+ </g>
+</svg>
